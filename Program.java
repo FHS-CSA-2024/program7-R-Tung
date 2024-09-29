@@ -2,7 +2,7 @@
 import java.util.Scanner;
 import java.text.DecimalFormat;
 //Your code here
-public class Program7{
+public class Program{
     public static void main(String[] args){
         //conversion rates
         final int convertKlevins = 20;
